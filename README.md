@@ -20,9 +20,9 @@
 
 ---
 
-## 🚀 Demo
+## 📽️ Demo
 
-👉 **Live App**: [Click here to try](https://ai-resume-analyzer-gltqtiur7bnnhbgin9xcje.streamlit.app/)  
+![AI Resume Analyzer Demo](./ai_resume_demo.gif) 
 📁 **GitHub Repo**: [github.com/Prabhanshiyadav/AI-resume-analyzer](https://github.com/Prabhanshiyadav/AI-resume-analyzer)
 
 ---
