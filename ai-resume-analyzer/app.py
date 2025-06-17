@@ -12,7 +12,7 @@ from utils import (
 from model import calculate_bert_similarity
 
 st.set_page_config(page_title="AI Resume Analyzer", layout="wide")
-st.title("📄 AI Resume Analyzer  — v2.0")
+st.title("📄 AI Resume Analyzer ")
 
 resume_file = st.file_uploader("Upload Resume (PDF)", type=["pdf"])
 jd_text     = st.text_area("Paste Job Description ✍️", height=150)
