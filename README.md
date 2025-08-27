@@ -1,7 +1,6 @@
 # 🤖 AI Resume Analyzer
 
 **AI-Powered Resume Matcher & Analyzer** that compares resumes against job descriptions using advanced NLP and Machine Learning to score compatibility, extract key skills, and visualize insights.
-
 ---
 
 ## 🔍 Features
